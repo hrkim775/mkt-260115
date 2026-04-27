@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "bun",
+      "args": ["run", "start"]
+    }
+  }
+}
